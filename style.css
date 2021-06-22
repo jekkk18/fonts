@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+.box h1{
+    margin: 40px;
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.box .img{
+    width: 250px;
+    margin: 0 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box .img img{
+    width: 100%;
+}
+.box .text{
+    width: 500px;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+}
+
+
+.box1 h1{
+    margin: 40px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.box1 .img1{
+    width: 250px;
+    margin: 0 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box1 .img1 img{
+    width: 100%;
+}
+.box1 .text1{
+    width: 500px;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
